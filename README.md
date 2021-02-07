@@ -4,8 +4,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=stormfox23&count_private=true&show_icons=true" />
 
-- 🚢 Open source contributor
-- 🚀 Kubernetes, .NET Core and Angular
+
+- 🚀 NodeJs, .NET Core and Angular
 - 👑 HotChocolate, MassTransit and Quartz
 - 🤝 Always open for cooperation
 - ❤️ Cats and whales 🐳
