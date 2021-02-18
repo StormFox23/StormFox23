@@ -6,9 +6,8 @@
 
 
 - 🚀 NodeJs, .NET Core and Angular
-- 👑 HotChocolate, MassTransit and Quartz
 - 🤝 Always open for cooperation
-- ❤️ Cats and whales 🐳
+
 
 
 </br>
