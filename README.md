@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stormfox23&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stormfox23&theme=radical" alt="GitHub Profile" />
 </div>
 
 ## 🚀 About Me
@@ -76,7 +76,10 @@ I'm a passionate full-stack developer with expertise in modern web technologies 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormfox23&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stormfox23&theme=radical" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stormfox23&theme=radical" alt="Stats" />
 </div>
 
 <div align="center">
