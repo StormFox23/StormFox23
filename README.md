@@ -8,8 +8,8 @@
 
 I'm a passionate full-stack developer with expertise in modern web technologies and a love for creating innovative solutions.
 
-- 💻 **Specializing in:** .NET Core, and Angular
-- 🤝 **Always open for:** Collaboration and new opportunities
+- 💻 **Specializing in:** .NET Core, Angular, and AI/ML integrations
+- 🤝 **Always open for:** Contract work, open source contributions, and innovative projects
 
 ## 🛠️ Tech Stack
 
@@ -17,6 +17,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies 
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="40" height="40"/>
 </p>
@@ -31,7 +32,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies 
 
 ### Mobile
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png" alt="Xamarin" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET MAUI" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" width="40" height="40"/>
 </p>
 
@@ -62,8 +63,8 @@ I'm a passionate full-stack developer with expertise in modern web technologies 
 ### AI & Machine Learning
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="OpenAI" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" alt="Ollama" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ollama/ollama-original.svg" alt="Ollama" width="40" height="40"/>
 </p>
 
 **Specializations:**
