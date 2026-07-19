@@ -79,10 +79,6 @@ I'm a passionate full-stack developer with expertise in modern web technologies 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stormfox23&theme=radical" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stormfox23&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🤝 Connect with Me
 
 <p align="center">
